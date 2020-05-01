@@ -7,7 +7,7 @@ This repo contains a template for organising reading groups. This reading group 
 Please feel free to give any feedback on current organisation as a new issue to this repository - it can be adapted to our needs.   
 
 ## Kudos 
-<img src="https://i.imgur.com/Zy0NvAf.png" height=150><img src="https://i.imgur.com/PStkLIK.png" height=150><img src="https://i.imgur.com/BozhFvv.png" height=150>
+<img src="https://i.imgur.com/Zy0NvAf.png" height=90><img src="https://i.imgur.com/PStkLIK.png" height=90><img src="https://i.imgur.com/BozhFvv.png" height=90>
 
 Kudos Lucy Park (Papago NAVER) for coming up with the idea of Agile Reading groups, and to Vassilina Nikoulina (NaverLabs Europe).
 
